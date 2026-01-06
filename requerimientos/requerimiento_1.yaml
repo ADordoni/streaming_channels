@@ -1,9 +1,11 @@
 repositorio: https://desafio-rkd.s3.amazonaws.com
 archivos:
+
   - plataforma: netflix
     sufijo: _titles
     extension: csv
     separador: ";"
+    
   - plataforma: disney_plus
     sufijo: _titles
     extension: csv
